@@ -1,0 +1,27 @@
+body {
+            background-color: rgba(49, 109, 99, 0.767);
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 20px;
+     
+     form {
+           
+             background-color: white;
+             border-radius:  3cap black;
+             padding: 20px;
+             margin: 20px;
+         
+     }
+     .form-section{
+    
+      max-width: 600px;
+      margin: auto;
+      text-align: center;
+
+    }
+    h1 {
+
+        color: green;
+        text-align:center;
+    }
+    }
